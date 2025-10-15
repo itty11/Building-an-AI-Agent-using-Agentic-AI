@@ -177,6 +177,6 @@ Agent Answer: During British rule, the capital was Calcutta. Later, it was moved
 
 ### Author
 
-** Author: Ittyavira C Abraham **
+Author: Ittyavira C Abraham 
 
-** MCA AI Student at Amrita Vishwa Vidyapeetham (Amrita Ahead) **
+MCA AI Student at Amrita Vishwa Vidyapeetham (Amrita Ahead) 
