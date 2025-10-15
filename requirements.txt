@@ -1,0 +1,44 @@
+# Core Python version
+python_version >= 3.10
+
+# Core ML and AI frameworks
+torch>=2.0.0
+transformers>=4.40.0
+sentence-transformers>=3.0.0
+datasets>=2.19.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Vector search & FAISS for retrieval
+faiss-cpu>=1.8.0
+
+# Streamlit UI for local agent dashboard
+streamlit>=1.36.0
+
+# Visualization & utilities
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Serialization / caching
+joblib>=1.4.0
+
+# Text preprocessing & NLP
+nltk>=3.8.1
+spacy>=3.7.2
+
+# Offline embedding and question-answering
+sentencepiece>=0.2.0
+protobuf>=4.25.3
+
+# Optional: progress bars and utils
+tqdm>=4.66.0
+
+# For Hugging Face model and dataset caching
+huggingface-hub>=0.24.0
+
+# (optional, safe) to avoid xet warnings
+hf-xet>=0.4.0
+
+# Disable TensorFlow dependency conflicts
+tensorflow>=2.15.0
