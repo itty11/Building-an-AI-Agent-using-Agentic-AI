@@ -126,7 +126,7 @@ Agent Answer: During British rule, the capital was Calcutta. Later, it was moved
 
 <img width="1366" height="596" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/60b6f84c-6bb4-4e5f-9811-d5cacb18b53b" />
 
-<img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/e28ff532-d63a-428e-8ab5-54bf780bd11e" />
+<img width="1366" height="597" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/7bec093a-24a1-4fd9-80c6-4f5eb2887819" />
 
 <img width="1366" height="602" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/e9283196-539e-4037-90cf-3563da3ed896" />
 
